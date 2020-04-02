@@ -1,0 +1,36 @@
+{
+    "cursos": [
+  {
+    "id": 1,
+    "titulo": "React desde cero",
+    "imagen":
+      "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/ui_design.png",
+    "precio": 50,
+    "profesor": "Henry Perez"
+  },
+  {
+    "id": 2,
+    "titulo": "Javascript desde cero",
+    "imagen":
+      "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/ui_design.png",
+    "precio": 70,
+    "profesor": "Beto quiroga"
+  },
+  {
+    "id": 3,
+    "titulo": "Drupal desde cero",
+    "imagen":
+      "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/ui_design.png",
+    "precio": 100,
+    "profesor": "Ronaldhiño"
+  },
+  {
+    "id": 4,
+    "titulo": "Go para expertos",
+    "imagen":
+      "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/ui_design.png",
+    "precio": 10,
+    "profesor": "Roberto gonzales"
+  }
+]
+}
